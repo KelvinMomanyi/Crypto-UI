@@ -1,2 +1,2 @@
-<img src="Readme.JPG">
+![Alt text](src/assets/Readme.JPG)
 
