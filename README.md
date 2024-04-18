@@ -1,2 +1,2 @@
-![Readme](Readme.JPG)
+<img src="Readme.JPG">
 
