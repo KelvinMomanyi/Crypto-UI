@@ -1,2 +1,2 @@
-![Alt text](src/assets/Readme.JPG)
+![Crypto UI](src/assets/Readme.JPG)
 
